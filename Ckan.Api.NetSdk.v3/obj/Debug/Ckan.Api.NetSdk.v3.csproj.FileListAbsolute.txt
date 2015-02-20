@@ -1,0 +1,7 @@
+D:\Work\Steven De Costa Projects\Source\Ckan.NetSdk\Ckan.Api.NetSdk.v3\bin\Debug\Ckan.NetSdk.v3.dll
+D:\Work\Steven De Costa Projects\Source\Ckan.NetSdk\Ckan.Api.NetSdk.v3\bin\Debug\Ckan.NetSdk.v3.pdb
+D:\Work\Steven De Costa Projects\Source\Ckan.NetSdk\Ckan.Api.NetSdk.v3\obj\Debug\Ckan.Api.NetSdk.v3.csprojResolveAssemblyReference.cache
+D:\Work\Steven De Costa Projects\Source\Ckan.NetSdk\Ckan.Api.NetSdk.v3\obj\Debug\Ckan.NetSdk.v3.dll
+D:\Work\Steven De Costa Projects\Source\Ckan.NetSdk\Ckan.Api.NetSdk.v3\obj\Debug\Ckan.NetSdk.v3.pdb
+D:\Work\Steven De Costa Projects\Source\Ckan.NetSdk\Ckan.Api.NetSdk.v3\bin\Debug\Newtonsoft.Json.dll
+D:\Work\Steven De Costa Projects\Source\Ckan.NetSdk\Ckan.Api.NetSdk.v3\bin\Debug\Newtonsoft.Json.xml
